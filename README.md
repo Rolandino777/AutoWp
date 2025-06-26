@@ -24,7 +24,7 @@
 
 <h2> Contoh Penggunaan 📝</h2>
 <p>install script diperangkat anda, jika suda maka jalankan</p>
-<pre><code>python run.py</code></pre>
+<pre><code>python AutoWp.py</code></pre>
 <p>Lalu ikuti instruksi yang ditampilkan.</p>
 
 <h2>Persyaratan 🛠</h2>
