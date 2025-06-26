@@ -4,8 +4,8 @@
 
 <h2> Fitur 🚀</h2>
 <ul>
-  <li>Succes.txt Untuk Menyimpan Hasil Login Berhasil</li>
-  <li>Falied.txt Untuk Menyimpan Hasil Login Gagal</li>
+  <li>▶ Succes.txt Untuk Menyimpan Hasil Login Berhasil</li>
+  <li>▶ Falied.txt Untuk Menyimpan Hasil Login Gagal</li>
   <li>▶ Mudah digunakan melalui<b>CLI (Command Line Interface)</b></li>
 </ul>
 
