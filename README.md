@@ -1,6 +1,6 @@
 <h1>OtomatisWp</h1>
 
-<p>Ini adalah skrip untuk melakukan encoding dan enkripsi teks menggunakan berbagai metode. Skrip ini dirancang untuk berjalan di <b>Termux</b> atau <b>Linux</b>, dan bisa digunakan untuk mengamankan data dengan cara sederhana.</p>
+<p>Tools Ini Dirancang Untuk Menguji Kredensial Akun (Username & Password) Pada Ratusan URL (Wp-Login.Php) Secara Otomatis. Tools Ini Berjalan Di <b>Termux</b> atau <b>Linux</b>, Cocok Digunakan Untuk Pengecekan Massal Validitas Akun Pada Situs Berbasis Wordpress.</p>
 
 <h2> Fitur 🚀</h2>
 <ul>
