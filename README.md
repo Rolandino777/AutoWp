@@ -12,12 +12,11 @@
 <h2> Instalasi 🌐</h2>
 <ol>
   <li><b>Clone repositori ini</b> ke perangkat Anda:</li>
-  
   <pre><code>git clone https://github.com/Rolandino777/AutoWp.git</code></pre>
   <li><b>Masuk ke direktori proyek:</b></li>
-  <pre><code>cd encode</code></pre>
+  <pre><code>cd AutoWp</code></pre>
   <li><b>Jalankan skrip:</b></li>
-  <pre><code>python run.py</code></pre>
+  <pre><code>python AutoWp.py</code></pre>
 </ol>
 
 <h2>Cara Penggunaan ⚙️</h2>
