@@ -30,6 +30,6 @@
 <h2>Persyaratan 🛠</h2>
 <ul>
   <li><b>Termux/Linux</b></li>
-  <li><b>Git</b> (untuk cloning repositori)</li>
+  <li><b>Git</b> (Untuk Cloning Repositori)</li>
   <li><b>Bash Shell</b></li>
 </ul>
