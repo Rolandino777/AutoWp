@@ -26,7 +26,7 @@
 (http://hiperbaricamendoza.com.ar/wp-login.php|liliana|karlos123) Masukan Dalam (target.txt) !</p>
 
 <h2> Contoh Penggunaan 📝</h2>
-<p>Install Script Diperangkat Anda, Jika Duda Maka Jalankan</p>
+<p>Install Script Diperangkat Anda, Jika Suda Maka Jalankan</p>
 <pre><code>python AutoWp.py</code></pre>
 <p>Lalu Ikuti Instruksi Yang Ditampilkan.</p>
 
