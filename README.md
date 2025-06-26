@@ -2,7 +2,7 @@
 
 <p>Tools Ini Dirancang Untuk Menguji Kredensial Akun (Username & Password) Pada Ratusan URL (Wp-Login.Php) Secara Otomatis. Tools Ini Berjalan Di <b>Termux</b> atau <b>Linux</b>, Cocok Digunakan Untuk Pengecekan Massal Validitas Akun Pada Situs Berbasis Wordpress.</p>
 
-  <img src="kontol2.jpg" alt="Preview Tampilan Script" width="400">
+  <img src="kontol2.jpg" alt="Preview Tampilan Script" width="400">   <img src="kontol1.jpg" alt="Preview Tampilan Script" width="400">
 
 <h2> Fitur 🚀</h2>
 <ul>
