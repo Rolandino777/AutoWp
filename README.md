@@ -6,7 +6,7 @@
 <ul>
   <li>Succes.txt Untuk Menyimpan Hasil Login Berhasil</li>
   <li>Falied.txt Untuk Menyimpan Hasil Login Gagal</li>
-  <li>Mudah digunakan melalui<b>CLI (Command Line Interface)</b></li>
+  <li>▶ Mudah digunakan melalui<b>CLI (Command Line Interface)</b></li>
 </ul>
 
 <h2> Instalasi 🌐</h2>
