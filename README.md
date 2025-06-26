@@ -30,9 +30,17 @@
 <pre><code>python AutoWp.py</code></pre>
 <p>Lalu Ikuti Instruksi Yang Ditampilkan.</p>
 
-<h2>Persyaratan 🛠</h2>
-<ul>
-  <li><b>Termux/Linux</b></li>
-  <li><b>Git</b> (Untuk Cloning Repositori)</li>
-  <li><b>Bash Shell</b></li>
-</ul>
+<h2>Lapor Bug 🛠</h2>
+<p align="center">
+  <a href="https://wa.me/6281243587205" target="_blank">
+    <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100094471519310" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
+<p align="center">
+  <a href="https://t.me/rolandino28" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
