@@ -23,9 +23,9 @@
 <p>Setelah Menjalankan Tools Anda Akan Di Minta Untuk Memasukan (target.txt) Yang Berisi Target Wopres Anda Dengan Format Validasi Seperti Ini (http://hiperbaricamendoza.com.ar/wp-login.php|liliana|karlos123) Masukan Dalam (target.txt) !</p>
 
 <h2> Contoh Penggunaan 📝</h2>
-<p>install script diperangkat anda, jika suda maka jalankan</p>
+<p>Install Script Diperangkat Anda, Jika Duda Maka Jalankan</p>
 <pre><code>python AutoWp.py</code></pre>
-<p>Lalu ikuti instruksi yang ditampilkan.</p>
+<p>Lalu Ikuti Instruksi Yang Ditampilkan.</p>
 
 <h2>Persyaratan 🛠</h2>
 <ul>
