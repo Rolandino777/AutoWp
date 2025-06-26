@@ -21,7 +21,7 @@
 </ol>
 
 <h2>Cara Penggunaan ⚙️</h2>
-<p>Setelah Menjalankan Tools Anda Akan Di Minta Untuk Memasukan (target.txt) Yang Berisi Target Wopres Anda Dengan Format Validasi Seperti Ini (http://hiperbaricamendoza.com.ar/wp-login.php|liliana|karlos123) Masukan Dalam (target.txt) Pastikan Kamu Sudah Membuat File (terget.txt) !</p>
+<p>Setelah Menjalankan Tools Anda Akan Di Minta Untuk Memasukan (target.txt) Yang Berisi Target Wopres Anda Dengan Format Validasi Seperti Ini (http://hiperbaricamendoza.com.ar/wp-login.php|liliana|karlos123) Masukan Dalam (target.txt) !</p>
 
 <h2> Contoh Penggunaan 📝</h2>
 <p>install script diperangkat anda, jika suda maka jalankan</p>
